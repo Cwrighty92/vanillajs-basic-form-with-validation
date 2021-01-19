@@ -1,5 +1,3 @@
-https://github.com/bradtraversy/vanillawebprojects
-
 ## Available Scripts
 
 In the project directory, you can run:
